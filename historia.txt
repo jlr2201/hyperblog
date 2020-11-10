@@ -4,3 +4,5 @@ Vamos a manejar de la mejor forma Git, la
 verdad no le había hecho mucho caso pero
 voy a aprender a fin de poder usar github
 que es una base de datos del código.
+
+Tengo 39 años de edad
